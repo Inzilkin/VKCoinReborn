@@ -2,7 +2,7 @@
 Мы — новый, революционный бот по майнингу валюты VKCoin после обновления «Майнинг 2.0»
 
 [![Беседа1 ВКонтакте](https://img.shields.io/badge/Беседа-ВКонтакте-yellow.svg)](https://vk.me/join/AJQ1d_Tncg9jZyO7tsoi4NjF)
-[![Группа ВКонтакте](https://img.shields.io/badge/Группа-ВКонтакте-yellow.svg)](https://vk.com/vcoin_reborn)
+[![Группа ВКонтакте](https://img.shields.io/badge/Группа-ВКонтакте-yellow.svg)](https://vk.com/vkcoin_reborn)
 
 # Установка
 `Шаг 1: Загрузка установочного файла Python 3`
